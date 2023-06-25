@@ -1,0 +1,16 @@
+.allview{
+   width: 95%;
+    display: flex;
+}
+.viewleft h1{
+ text-align: center;
+ padding: 10px;
+}
+.viewleftimg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   }
+  .viewleft p{
+    padding:10px 40px;
+   }

@@ -1,0 +1,30 @@
+
+.boxwrapty{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.boxty{
+    width: 250px;
+    height: 300px;
+    border: 1px solid black;
+    margin: 10px;
+    text-align: center;
+    color: aqua;
+   
+}
+.boxty h1,h2{
+    color: rgb(255, 17, 0);
+}
+.h1c{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.h1c:hover{
+    color: orangered;
+}
+.storybookimg img{
+width: 100%;
+height: 170px;
+}
